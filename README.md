@@ -10,7 +10,7 @@ use example:
 <repositories>
        <repository>
            <id>github-maven-repo</id>
-           <url>https://raw.githubusercontent.com/bonashen/mvn-repo/tree/master/</url>
+           <url>https://raw.githubusercontent.com/bonashen/mvn-repo/master/</url>
        </repository>
  </repositories>
 
