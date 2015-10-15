@@ -19,9 +19,16 @@ use example:
 > Dependency
 
 ```xml
+   <!-- for smtp server -->
    <dependency>
         <artifactId>smtp-core</artifactId>
         <groupId>org.mailster</groupId>
         <version>1.0.0-M3</version>
+    </dependency>
+    <!-- for Pop3 Server -->
+    <dependency>
+      <groupId>com.bona.server</groupId>
+      <artifactId>Pop3-Server</artifactId>
+      <version>0.1</version>
     </dependency>
 ```
