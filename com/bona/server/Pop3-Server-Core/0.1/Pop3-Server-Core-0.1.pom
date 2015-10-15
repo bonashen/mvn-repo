@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.bona.server</groupId>
-    <artifactId>Pop3-Server</artifactId>
+    <artifactId>POP3-Server-Core</artifactId>
     <packaging>jar</packaging>
     <name>Bona POP3 Server</name>
     <version>0.1</version>
@@ -48,7 +48,7 @@
 
     </dependencies>
     <build>
-        <finalName>BonaPOP3</finalName>
+        <finalName>BonaPOP3Server</finalName>
         <sourceDirectory>src/main/java</sourceDirectory>
         <testSourceDirectory>src/test/java</testSourceDirectory>
         <testResources>

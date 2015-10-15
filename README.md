@@ -28,7 +28,7 @@ use example:
     <!-- for Pop3 Server -->
     <dependency>
       <groupId>com.bona.server</groupId>
-      <artifactId>Pop3-Server</artifactId>
+      <artifactId>POP3-Server-Core</artifactId>
       <version>0.1</version>
     </dependency>
 ```
